@@ -1,0 +1,11 @@
+{
+  "name": "17_mycompany_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "EliMitte",
+  "license": "ISC",
+  "description": ""
+}
